@@ -13,6 +13,16 @@
 
 ## Technologies Used
 {Html, css, bootstrap And github}
+
+##BDD
+|Behaviour                  | Input       | Output              |
+|--------------------------:|:-----------:|:--------------------
+|Not a triangle             | number1+number2<=number3       | cannot form
+|Triangle with equal sides  |number1=number2=number3        | Equilateral triangle
+|Triangle with 2 equal sides| number1+number2 number2+number3 number3+number1 | Isosceles triangle
+|Triangle with no equal side| number1!==number2!==number3   | Scalene triangle
+
+
 ## Support and contact details
 {Get in touch on SLACK @tom}
 ### License
