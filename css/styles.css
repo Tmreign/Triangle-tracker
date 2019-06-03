@@ -1,9 +1,8 @@
 
 
 @import  url("bootstrap.css");
-body{￼
-    
-}
+
+
 
 .container{
     border: 2px solid wheat;
@@ -20,4 +19,7 @@ body{￼
     color:wheat;
     background-color: brown;
 
+}
+body{
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/7347568/thumb/1.jpg")
 }
