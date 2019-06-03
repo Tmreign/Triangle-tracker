@@ -29,6 +29,6 @@ behaviour of the application
 ## Support and contact details
 {Get in touch on SLACK @tom}
 ### License
-
+MIT license. **All rights reserved**
 Copyright (c) {2019} **{Tom Reign}**
   
