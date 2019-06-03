@@ -1,10 +1,8 @@
 
 
-
-body{
-    background-image: url("https://ak8.picdn.net/shutterstock/videos/7347568/thumb/1.jpg");
-    color: aliceblue;
-
+@import  url("bootstrap.css");
+body{￼
+    
 }
 
 .container{
