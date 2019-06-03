@@ -25,6 +25,7 @@ body{
 }
 .col-md-4{
     margin: 10px;
+    border-radius: 20px;
 }
 .btn{
     margin: 10px;
