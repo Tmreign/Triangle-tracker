@@ -15,6 +15,9 @@
 {Html, css, bootstrap And github}
 
 ##BDD
+
+behaviour of the application
+
 |Behaviour                  | Input       | Output              |
 |--------------------------:|:-----------:|:--------------------
 |Not a triangle             | number1+number2<=number3       | cannot form
