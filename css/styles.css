@@ -23,3 +23,6 @@
 body{
     background-image: url("https://ak8.picdn.net/shutterstock/videos/7347568/thumb/1.jpg")
 }
+.col-md-4{
+    margin: 10px;
+}
