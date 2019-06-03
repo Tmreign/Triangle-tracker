@@ -14,7 +14,7 @@
 ## Technologies Used
 {Html, css, bootstrap And github}
 
-##BDD
+## BDD
 
 behaviour of the application
 
