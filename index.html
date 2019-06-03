@@ -13,23 +13,28 @@
 <body>
     <div class="container">
         <!-- Horizontal material form -->
-        <form action="index.html" method="get">
-                       
-                          
-                       <input type="number"  Id="length">
-                
-                        <input type="number"  Id="width">                               
+       
+         <div class="row">
+                    
+                    <form action="index.html" method="get">
+                                
+                               <div col-md-4>        
+                                    <input type="number"  Id="length">
+                               </div> 
+                               <div col-md -4>
+                                <input type="number"  Id="width">                               
+                               </div>
+                                <div col-md-4>     
+                                    <input type="number"  Id="height" >
+                                </div>
+                    
+                            
+                           <button class="btn btn-suceess btn-md" onclick="join()">Submit</button>
+                            
+                            
                         
-                        <input type="number"  Id="height" >
-                
-        
-                
-             <button class="btn btn-suceess btn-md" onclick="join()">Submit</button>
-                
-            
-            
-        </form>
-
+                    </form>
+         </div>
         <script src="js/scripts.js"></script>
     </div>
 
