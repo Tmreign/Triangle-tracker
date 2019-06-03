@@ -1,6 +1,25 @@
-@import url('bootstrap.css');
 
 
-background-color{
-    color: black;
+
+body{
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/7347568/thumb/1.jpg");
+    color: aliceblue;
+
+}
+
+.container{
+    border: 2px solid wheat;
+    padding: 44px;
+    margin: 10px;
+}
+
+
+.col-sm-10{
+    margin-top: 30px;
+}
+
+.btn{
+    color:wheat;
+    background-color: brown;
+
 }
